@@ -50,7 +50,7 @@ db.mongoose
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to Ifund application." });
+  res.json({ message: "Welcome to Kuber Investment." });
 });
 
 // routes
